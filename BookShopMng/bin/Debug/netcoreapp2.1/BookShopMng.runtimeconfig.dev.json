@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SHARANEE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SHARANEE\\.nuget\\packages"
+    ]
+  }
+}
